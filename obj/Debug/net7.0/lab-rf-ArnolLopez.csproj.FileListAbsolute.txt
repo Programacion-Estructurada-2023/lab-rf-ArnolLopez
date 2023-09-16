@@ -1,0 +1,15 @@
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\bin\Debug\net7.0\lab-rf-ArnolLopez.exe
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\bin\Debug\net7.0\lab-rf-ArnolLopez.deps.json
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\bin\Debug\net7.0\lab-rf-ArnolLopez.runtimeconfig.json
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\bin\Debug\net7.0\lab-rf-ArnolLopez.dll
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\bin\Debug\net7.0\lab-rf-ArnolLopez.pdb
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\lab-rf-ArnolLopez.csproj.AssemblyReference.cache
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\lab-rf-ArnolLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\lab-rf-ArnolLopez.AssemblyInfoInputs.cache
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\lab-rf-ArnolLopez.AssemblyInfo.cs
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\lab-rf-ArnolLopez.csproj.CoreCompileInputs.cache
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\lab-rf-ArnolLopez.dll
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\refint\lab-rf-ArnolLopez.dll
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\lab-rf-ArnolLopez.pdb
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\lab-rf-ArnolLopez.genruntimeconfig.cache
+C:\Users\Dark\github-classroom\Programacion-Estructurada-2023\lab-rf-ArnolLopez\obj\Debug\net7.0\ref\lab-rf-ArnolLopez.dll
